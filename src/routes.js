@@ -1,3 +1,9 @@
+import Home from "./pages/home/Home";
+
+
 let routes =[
-    {path : '/', elemnt: <Home />}
+    {path : '/', element: <Home />}
 ]
+
+
+export default routes
