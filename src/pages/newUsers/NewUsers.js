@@ -1,12 +1,8 @@
-import React from 'react';
+import React from "react";
 import "./NewUsers.css";
 
 const NewUsers = () => {
-    return (
-        <>
-            
-        </>
-    );
-}
+  return <>NewUsers</>;
+};
 
 export default NewUsers;
