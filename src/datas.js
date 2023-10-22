@@ -48,3 +48,10 @@ export let xAxisData = [
     Sale: 30_900,
   },
 ];
+
+export const newMember =[
+  {id:1 , username:'Mohammd Amin', title:'Web Developer' , img:'img/mohsen.jpg'},
+  {id:1 , username:'MOhsen ', title:'Web Hacking' , img:'img/mohsen.jpg'},
+  {id:1 , username:' Amin', title:' SEO' , img:'img/mohsen.jpg'},
+  {id:1 , username:' Amir', title:' Developer' , img:'img/mohsen.jpg'}
+]
